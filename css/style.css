@@ -1310,7 +1310,7 @@ a {
   margin-bottom: 30px;
 }
 .single-recent-blog-post .thumb {
-  overflow: hidden;
+  overflow: scroll;
 }
 .single-recent-blog-post .thumb img {
   transition: all 0.7s linear;
@@ -3215,7 +3215,7 @@ a {
   flex: 0 0 16.667%;
   max-width: 16.667%;
   display: block;
-  overflow: hidden;
+  overflow: scroll;
 }
 .instagram_image a img {
   width: 100%;
