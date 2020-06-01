@@ -461,7 +461,7 @@ a {
     margin-left: 0px;
   }
   .header_area .navbar-collapse {
-    max-height: 340px;
+    /* max-height: 340px; */
     overflow-y: auto;
   }
   .header_area .navbar .nav .nav-item.submenu ul .nav-item .nav-link {
@@ -604,7 +604,7 @@ a {
 }
 @media (max-width: 480px) {
   .header_area .navbar-collapse {
-    max-height: 250px;
+    /* max-height: 250px; */
   }
   .home_banner_area .banner_inner .banner_content {
     margin-top: 0px;
